@@ -1,0 +1,6 @@
+projectKey=com.echios:calculator
+serverUrl=https://reimagined-tribble-5p9wrwrvjxjc7qwv-9000.app.github.dev
+serverVersion=25.2.0.102705
+dashboardUrl=https://reimagined-tribble-5p9wrwrvjxjc7qwv-9000.app.github.dev/dashboard?id=com.echios%3Acalculator
+ceTaskId=8ac98744-1f9a-442e-806c-909716661e83
+ceTaskUrl=https://reimagined-tribble-5p9wrwrvjxjc7qwv-9000.app.github.dev/api/ce/task?id=8ac98744-1f9a-442e-806c-909716661e83
